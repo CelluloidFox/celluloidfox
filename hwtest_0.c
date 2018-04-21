@@ -22,7 +22,7 @@ int main()
       case 6:
       case 9:
       case 11: printf("The month has 30 days\n"); break;
-      default: printf("The month has 31 days\n");
+      default: printf("The month has 31 days\n"); break;
     }
   }
   return 0;
