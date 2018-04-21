@@ -11,7 +11,7 @@
 int main()
 {
     float s = 2;
-    int i, u = 3, v = 2;
+    int i, u = 2, v = 1;
     for(i = 1; i <= 8; i++)
     {
         u = u + v;
